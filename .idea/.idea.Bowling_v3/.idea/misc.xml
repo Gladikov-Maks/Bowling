@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JSON и JSON5</id>
+          </State>
+          <State>
+            <id>JavaScript и TypeScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>ДоступностьHTML</id>
+          </State>
+          <State>
+            <id>Импорт и зависимостиJavaScript и TypeScript</id>
+          </State>
+          <State>
+            <id>Интернационализация</id>
+          </State>
+          <State>
+            <id>Корректировка</id>
+          </State>
+          <State>
+            <id>Общее</id>
+          </State>
+          <State>
+            <id>ОбщееJavaScript и TypeScript</id>
+          </State>
+          <State>
+            <id>Проблемы стиля кодаJavaScript и TypeScript</id>
+          </State>
+          <State>
+            <id>Файлы свойств</id>
+          </State>
+          <State>
+            <id>проблемы валидацииJavaScript и TypeScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Пользовательские</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>

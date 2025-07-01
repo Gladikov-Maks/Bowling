@@ -1,0 +1,14 @@
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/bin/Debug/net8.0/Bowling_v3
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/bin/Debug/net8.0/Bowling_v3.deps.json
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/bin/Debug/net8.0/Bowling_v3.runtimeconfig.json
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/bin/Debug/net8.0/Bowling_v3.dll
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/bin/Debug/net8.0/Bowling_v3.pdb
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.AssemblyInfoInputs.cache
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.AssemblyInfo.cs
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.csproj.CoreCompileInputs.cache
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.dll
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/refint/Bowling_v3.dll
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.pdb
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/Bowling_v3.genruntimeconfig.cache
+/Users/maksimgladikov/RiderProjects/Bowling_v3/Bowling_v3/obj/Debug/net8.0/ref/Bowling_v3.dll
